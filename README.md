@@ -5,8 +5,7 @@ This repository contains a Python script that demonstrates K-Means clustering on
 ## Usage
 
 1. Clone this repository.
-2. Run the `kmeans_iris.py` script to see the clustering results.
-3. The script will display the Elbow Method graph to find the optimal number of clusters and visualize the clusters.
+2. The script will display the Elbow Method graph to find the optimal number of clusters and visualize the clusters.
 
 ## Dependencies
 
